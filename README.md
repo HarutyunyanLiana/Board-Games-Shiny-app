@@ -10,7 +10,9 @@ The data was taken from [Kaggle website](https://www.kaggle.com/mrpantherson/boa
 The third tab was the initial idea for the app: try create **A GAME WITH R**. Game Rules can be found in Play here tab.
 
 
-[Link to the BOARD GAMES app.](https://lhds.shinyapps.io/board_games/) 
+[Link to the BOARD GAMES app.](https://lhds.shinyapps.io/board_games/)
+
+First created in August of 2018.
 
 
 <p align="center">
